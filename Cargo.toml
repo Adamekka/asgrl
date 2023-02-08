@@ -1,0 +1,7 @@
+[workspace]
+members = ["asgrl"]
+exclude = ["exmaples"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"

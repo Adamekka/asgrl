@@ -1,1 +1,3 @@
-fn main() {}
+pub fn create_window() {
+    println!("Hello, world!");
+}
