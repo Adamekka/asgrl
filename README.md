@@ -1,2 +1,3 @@
 # asgrl
- Adamekka's simple graphical Rust library
+
+Adamekka's simple graphical Rust library
