@@ -1,0 +1,11 @@
+[package]
+name = "asgrl-examples"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+asgrl = { path = "../asgrl" }
+
+[[example]]
+name = "create_window"
+path = "create_window.rs"
